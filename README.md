@@ -2,6 +2,8 @@
 
 An intelligent research assistant that summarizes government scheme articles and allows you to ask questions based on their content — powered by Google Gemini API and LangChain.
 
+## Demo Video Link: https://drive.google.com/file/d/1sN02eM5iCupNTLTtQgMiK3oIq6jRUaDi/view?usp=sharing 
+
 ## 🔧 Features
 
 * ✅ Load scheme content via **URL or PDF**
